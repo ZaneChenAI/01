@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Logs and local secrets
+*.log
+.env
+*.pem
+id_rsa
+secrets/
